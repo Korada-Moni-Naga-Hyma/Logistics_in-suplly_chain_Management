@@ -1,0 +1,29 @@
+Attribute,Attribute,Attribute
+Type,Order Item Id,Product Category Id
+Days for shipping (real),Order Item Product Price,Product Description
+Days for shipment (scheduled),Order Item Profit Ratio,Product Image
+Benefit per order,Order Item Quantity,Product Name
+Sales per customer,Sales,Product Price
+Delivery Status,Order Item Total,Product Status
+Late delivery risk,Order Profit Per Order,Shipping date (DateOrders)
+Category Id,Order Region,Shipping Mode
+Category Name,Order State,Market
+Customer City,Order Status,Order City
+Customer Country,Order Zipcode,Order Country
+Customer Email,Product Card Id,Order Customer Id
+Customer Fname,Product Category Id,Order date (DateOrders)
+Customer Id,Product Description,Order Id
+Customer Lname,Product Image,Order Item Cardprod Id
+Customer Password,Product Name,Order Item Discount
+Customer Segment,Product Price,Order Item Discount Rate
+Customer State,Product Status,Order Item Id
+Customer Street,Shipping date (DateOrders),Order Item Product Price
+Customer Zipcode,Shipping Mode,Order Item Profit Ratio
+Department Id,Market,Order Item Quantity
+Department Name,Order City,Sales
+Latitude,Order Country,Order Item Total
+Longitude,Order Customer Id,Order Profit Per Order
+Market,Order date (DateOrders),Order Region
+Order Id,Order State,
+Order Item Cardprod Id,Order Status,
+Order Item Discount,Order Zipcode,

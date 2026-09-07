@@ -1,0 +1,19 @@
+Attribute,Data Type
+Type,object
+Days for shipping (real),int64
+Days for shipment (scheduled),int64
+Benefit per order,float64
+Sales per customer,float64
+Late delivery risk,int64
+Order date (DateOrders),object
+Order Item Discount,float64
+Order Item Discount Rate,float64
+Order Item Product Price,float64
+Order Item Profit Ratio,float64
+Order Item Quantity,int64
+Sales,float64
+Order Item Total,float64
+Order Profit Per Order,float64
+Product Price,float64
+Shipping date (DateOrders),object
+Shipping Mode,object

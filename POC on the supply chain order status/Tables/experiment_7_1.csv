@@ -1,0 +1,2 @@
+Model,Input Size,Training Accuracy (\%),Testing Accuracy (\%)
+Softmax Layer,180515 × 64,99.400,99.450
